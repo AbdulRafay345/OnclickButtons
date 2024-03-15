@@ -1,0 +1,23 @@
+header {
+    background-color: #085379;
+}
+
+footer {
+    background-color: #023047;
+}
+
+.container .card {
+    min-height: 30px;
+}
+
+@media  screen and (max-width: 767px) {
+
+    #buttons {
+        display: block !important;
+    }
+
+    #buttons .btn {
+        width: 100%;
+    }
+
+}
